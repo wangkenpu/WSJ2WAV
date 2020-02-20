@@ -32,6 +32,7 @@ You can use any noise corpus. But the sample rate of noise and clean speech must
 1. [Nonspeech100](http://web.cse.ohio-state.edu/~wang.77/pnl/corpus/HuNonspeech/HuCorpus.html)
 2. [MUSAN](http://www.openslr.org/17/)
 3. [freesound](https://freesound.org/browse/)
+4. [DEMAND](https://zenodo.org/record/1227121#.Xk4rAsnivZt)
 
 ### Room Impulse Response (RIR)
 
